@@ -1,4 +1,5 @@
 KFKA ZOOKEEPER 
 Hadoop Architecture
-Cloud computing with AWS/Azure/GCP
+Cloud computing with AWS/Azure
+RDS Redshift Dynamadb
 
